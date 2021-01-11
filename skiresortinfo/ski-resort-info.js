@@ -1,3 +1,6 @@
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// icon-color: blue; icon-glyph: stroopwafel;
 //https://www.onthesnow.com/ajax/my/nearby_resorts?lat=53.55073&lon=9.99302&n=10
 //https://www.onthesnow.com/ajax/get_simple_resort?id=2977
 
